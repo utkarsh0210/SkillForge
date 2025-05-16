@@ -19,6 +19,8 @@ from google.api_core.exceptions import GoogleAPIError
 
 # API key configuration
 api_key = "AIzaSyC_9_9rBHatlDMXeoCsvg47A4ZaZ1Zahf0"
+api_key = st.secrets["GOOGLE_API_KEY"]
+
 if api_key:
     genai.configure(api_key=api_key)
 
@@ -455,3 +457,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
