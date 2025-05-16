@@ -1,4 +1,4 @@
-# SkillForge Pro 🚀
+# SkillForge 🚀
 
 ### AI-Powered Resume Analyzer and Course Recommender
 
