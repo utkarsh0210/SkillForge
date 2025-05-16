@@ -1,4 +1,0 @@
-google.generativeai
-pymupdf
-streamlit
-google.api_core.exceptions
