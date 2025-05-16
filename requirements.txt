@@ -1,3 +1,4 @@
 google.generativeai
 pymupdf
-streamlitgoogle.api_core.exceptions
+streamlit
+google.api_core.exceptions
