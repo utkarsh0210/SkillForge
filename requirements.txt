@@ -1,6 +1,6 @@
 google.generativeai
 pymupdf
 streamlit
-google.api_core.exceptions
+google-api-core
 fitz
 os
