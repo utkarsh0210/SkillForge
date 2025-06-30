@@ -2,4 +2,3 @@ google.generativeai
 pymupdf
 streamlit
 google-api-core
-fitz
